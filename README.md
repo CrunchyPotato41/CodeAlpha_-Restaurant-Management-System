@@ -1,6 +1,6 @@
 # restaurant management app
 
-hey guys, this is the code for the restaurant management system. i built it using mern stack because thats what i learned in the bootcamp.
+hey guys, this is the code for the restaurant management system. i built it using mern stack because thats what i learned in the project.
 
 ## tech used
 - node.js and express for backend (runs on port 5000 usually)
